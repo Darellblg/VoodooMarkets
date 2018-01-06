@@ -1,1 +1,2 @@
-.ipynb_checkpoints
+.* # ignore all hidden stuff
+!/.gitignore # do not ignore igtignore
