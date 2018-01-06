@@ -1,2 +1,1 @@
-**/*.ipynb_checkpoints/ # Ignore stuff
-.ipynb_checkpoints # Ignore stuff
+.ipynb_checkpoints
